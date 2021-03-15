@@ -1,0 +1,32 @@
+body {
+    background: url("../images/bg-main.png") top #000 no-repeat!important;
+}
+#main-block {
+    height: 700px;
+}
+.valute{
+    width: 26px;
+    height: 26px;
+}
+.card:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.social {
+    width: 25px;
+    height: 25px;
+}
+.instagram {
+    background: url("../images/1438557260_inst_4.png");
+}
+.facebook {
+    background: url("../images/1438557245_ab_4.png");
+}
+.vk {
+    background: url("../images/1438423986_vk_3.png");
+}
+.fixed {
+    position: fixed!important;
+    background-color: black;
+    z-index: 999;
+}
